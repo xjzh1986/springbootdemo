@@ -12,12 +12,17 @@
 	<artifactId>springbootdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springbootdemo</name>
+	<packaging>pom</packaging>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
 	</properties>
+	<modules>
+		<module>springbootdemoentity</module>
+
+	</modules>
 
 	<dependencies>
 		<dependency>
