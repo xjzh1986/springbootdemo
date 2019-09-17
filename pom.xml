@@ -23,6 +23,7 @@
 	<modules>
 		<module>springbootdemoentity</module>
 		<module>springbootdemoeureka</module>
+		<module>springbootdemoproduct</module>
 
 	</modules>
 
