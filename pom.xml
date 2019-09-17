@@ -22,6 +22,8 @@
 	</properties>
 	<modules>
 		<module>springbootdemoentity</module>
+		<module>springbootdemoeureka</module>
+
 	</modules>
 
 	<dependencies>
